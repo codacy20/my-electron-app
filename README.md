@@ -17,7 +17,8 @@ yarn start
 ## Export
 
 ```bash
-$ npx @electron-forge/cli import
+$ npm i -g @electron-forge/cli
+$ electron-forge import
 $ npm run make
 
 Electron-forge creates the out folder where your package will be located:
